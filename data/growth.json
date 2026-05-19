@@ -1,0 +1,19 @@
+[
+  {
+    "_id": "growth_1775864575375",
+    "childId": "child_1775858222963",
+    "ageMonths": 6,
+    "weight": 7.2,
+    "height": 68,
+    "feedingType": "solid",
+    "gender": "male",
+    "analysis": {
+      "weightPercentile": 25,
+      "heightPercentile": 50,
+      "weightStatus": "warning",
+      "heightStatus": "normal",
+      "aiInsight": "Weight: approx. 25th percentile (Slightly outside WHO range). Height: approx. 50th percentile (Within normal WHO range)."
+    },
+    "recordDate": "2026-04-10T23:42:55.371Z"
+  }
+]
